@@ -7,7 +7,7 @@ Este exemplo tem como objetivo, demonstrar como utilizar o Facebook FLUX para o 
 ## Clonando o Repositório
 
 ```bash
-git clone http://www.github.com/site
+git clone https://github.com/gilliard-code/reactjs-flux.git
 ```
 
 ### Requerimentos
