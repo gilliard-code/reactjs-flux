@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-flux/static/css/main.6a4612b0.css",
+    "main.js": "/reactjs-flux/static/js/main.d85ad2af.js",
+    "index.html": "/reactjs-flux/index.html",
+    "main.6a4612b0.css.map": "/reactjs-flux/static/css/main.6a4612b0.css.map",
+    "main.d85ad2af.js.map": "/reactjs-flux/static/js/main.d85ad2af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4612b0.css",
+    "static/js/main.d85ad2af.js"
+  ]
+}
